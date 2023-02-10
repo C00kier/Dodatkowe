@@ -79,7 +79,7 @@ while(inputNumber !== 1)
     }
     else
     {
-        inputNumber = 3 * inputNumber + 1;
+        inputNumber = (3 * inputNumber + 1) / 2;
     }
 }
 
